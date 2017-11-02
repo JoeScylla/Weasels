@@ -1,14 +1,16 @@
-h2. Recruitment
+WEASELS ist ein lockerer bis obzöner Haufen von Leuten die sich seit einigen Jahren kennen und 
+diverse Spiele miteinander spielen. Sollte Star Citizen jemals rauskommen werden auch wir am 
+Start sein. Genau bedeutet dies, dass wir mit der 3.0 Alpha anfangen werden. Unser Spielstil ist 
+entspannt bis destruktiv.
 
-# Be at least 18 year old.
-# Able to understand, speak and write German.
-# Background in military or intelligence (HUMINT / SIGINT).
-# Ability to adapt to command structure.
-# Able to work with other personal and good communication skills.
-# Willing to engage in combat situations.
-# Special training in destruction, communication, medicine and/or engineering (as infantry).
-# Special training in transport, reconnaissance and/or spacecraft combat (as spacecraft pilot).
+h2. Was sind die Voraussetzungen um bei WEASELS mitzumachen?
 
-h2. Rules
+# Sei mindestens 21 Jahre alt.
+# Sei der deutschen Sprache und Schrift mächtig.
+# Hab ein Mikrofon und Discord.
 
-# This information is classified.
+h2. Was sind die Regeln in WEASELS?
+
+# Sein kein Arschloch.
+# Seine keine Dramaqueen.
+# Keine Cheats, Hacks oder Exploits.

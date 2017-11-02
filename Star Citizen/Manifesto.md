@@ -1,39 +1,93 @@
-WEASELS want to be a home for retired military personal with exceptional skills and experience.
+WEASELS ist die Heimat für ausgeschiedenes militärisches Personal, die über aussergewähnliche
+Fertigkeiten und Erfahrung verfügen.
 
-For this reason we are able to deliver a wide array of security and para-military services that other Private Military Cooperations (PMC) are not able to. In addition to this we still maintain good connections with UEE Command and UEE Intelligence Command with information exchange that give us the edge in many situations.
+Aus diesem Grund ist WEASELS in der Lage eine umfangreiche Reihe an Dienstleistungen in Bereich
+Sicherheit sowie Paramilitärischen Leistungen zu bieten, wozu andere Private 
+Sicherheitsdienstleister (Private Military Cooperations (PMC)) nicht in der Lage sind.
 
-h2. Services
+Zusätzlich verfügen wird über ausgezeichnete Kontakte zum UEE Kommando sowie UEE Nachrichtendienst
+was uns in vielen Situationen einen Vorteil verschafft.
 
-# Protection (Escort, Planetside and Facility Protection)
-# Space Surveillance
-# Rescue and Recover (Planetsides and Spacecrafts)
-# Reconnaissance
-# Consulting
+h2. Dienstleistungen
 
-h2. Structure
+h3. Sicherheit
 
-The command structure is based on UEE standard #1048 "Special Assignment Command Structure for Agile Units" of the UEE Special Operations Command (UEE SOCOM). The same command structure used by 7. Cavalry Bataillon of the UEE 1. Cavalry Division.
+Unter Sicherheit fällt die Sicherung von Personal (Personenschutz), Raumschiffen (Geleitschutz), 
+Raumstationen sowie planetare Anlagen.
 
-h3. 1. Headquarters Company
+h3. Überwachung und Aufklärung
 
-The Headquartes Company is divided into command, operations and intelligence. Command is responsible leading the bataillon and communicate with UEE Command and other formations. Operations is responsible planning and coordinating special operations and Intelligence delivers information and communicate with UEE Intelligence Command.
+Die Überwachung und Aufklärung kann Personen, Anlagen, Teilsektoren und ganze Sektoren umfassen.
 
-h3. 2. Supply and Maintenance Company
+h3. Rettung und Bergung
 
-This company is responsible for every supply and maintenance required by the infantry companies and flight squadrons.
+Rettung und Bergung umfasst die Rückführung von Personen und Gegenständen inklusive 
+Geiselbefreiung.
 
-h3. 3./4./5. Infantry Company
+h3. Beratung
 
-The infantry companies are organised into teams with members specialised in destruction, communication, medicine and/or engineering. Every member is trained in light and heavy combat operations (including ZeroG Combat) and spacecraft operations.
+Sollten Sie über eigene Sicherungsstrukturen verfügen oder aufbauen wollen können wir Sie 
+umfassend beraten.
 
-h3. 6. Transportation Flight Squadron
+h2. Struktur
 
-The Transportation Flight Squadron is responsible for transportation tasks (personal and supply) and reconnaissance flights.
+Die Struktur von WEASELS basiert auf dem UEE Standard #1048 "Special Assignment Command Structure 
+for Agile Units" des UEE Streitkräfte für Spezialoperationen (UEE Special Operations Command
+(UEE SOCOM)). Die Kommandostruktur welche auch von dem 7. Kavalleriebattalions der 1. 
+Kavalleriedivision verwendet wird.
 
-h3. 7. Combat Flight Squadron
+h3. 1. Stabskompanie
 
-The Combat Flight Squadron main tasks are escort, light fire support and spacecraft combat.
+Die Stabskompanie umfasst die Abteilungen Führung, Planung, Nachrichtendienst und Rekrutierung.
 
-h3. 8. Fire Support Flight Squadron
+Die Führung ist für die Führung der Organisation sowie aller Kompanien verantwortlich. Zudem ist 
+die Führung der Ansprechpartner für Klienten, Presse, den UEE Stab (UEE Command) sowie anderen 
+Organisationen.
 
-The Fire Support Flight Squadron responsibilities include heavy fire support, anti capital ship and tactical bombing.
+Die Abteilung Planung ist verantwortlich für die Planung und Koordination aller 
+militärisch/para-militärischen Einsätze inklusive Spezialeinsätze.
+
+Der Nachrichtendienst plant und koordiniert alle Aufklärungsmissionen, ist verantwortlich für
+das Sammeln und Auswerten von Informationen welche aus
+"HUMINT":https://en.wikipedia.org/wiki/Human_intelligence_(intelligence_gathering) und 
+"SIGINT":https://en.wikipedia.org/wiki/Signals_intelligence gewonnen werden und ist der primäre 
+Ansprechpartner für den UEE Nachrichtendienst (UEE Intelligence Command).
+
+Die Rekrutierung ist verantwortlich Marketingmaßnahmen um neues Personal zu rekrutieren, der 
+Ansprechpartner für interessierte Personen sowie das Training neuer Rekruten.
+
+h3. 2. Versorgungs- und Wartungskompanie
+
+Die Versorgungs- und Wartungskompanie organisiert den Nachschub über Abbau von Rohstoffen, 
+Verwerten von Bergungsgut sowie Handel und ist verantwortlich für Wartung und Reparatur von 
+Raumschiffen und Fahrzeugen sowie Ausrüstung.
+
+h3. 3. Transportstaffel
+
+Die erste Transportstaffel ist verantwortlich für alle Transporte von Handelsgütern, Nachschub 
+sowie Personen.
+
+h3. 4. Transportstaffel
+
+Die zweite Transportstaffel verfügt über Training sowie Ausrüstung zum Ein- und Ausfliegen von 
+militärischen Personal für Spezialeinsätze inklusive Enterungsmissionen und in aktive Kampfzonen.
+
+h3. 5. Aufklärungsstaffel
+
+Die Aufklärungsstaffel führt alle Aufklärungsmissionen durch. Das umfasst die Aufklärung von 
+Einsatzzielen bis hin zur Überwachung von ganzen Sektoren.
+
+h3. 6./7. Kampfstaffel
+
+Die Kampfstaffeln führen militärische/para-militärische Einsätze durch.
+
+h3. 8. Bomberstaffel
+
+Die Bomberstaffel stellt schweres Unterstützungsfeuer, Maßnahmen gegen Großraumschiffe sowie 
+taktisch Bombardierung bereit.
+
+h3. 9./10. Infanteriekompanie
+
+Die Infanteriekompanien sind in Einsatzteams organisiert, deren Personal über eine Spezialisierung 
+in Zerstörung, Kommunikation, Medizin oder Technik verfügt. Die Einsatzteams sind in leichten und
+schweren Kampf sowie dem Kampf in Schwerelosigkeit trainiert.

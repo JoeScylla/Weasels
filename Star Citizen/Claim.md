@@ -1,4 +1,4 @@
-h2. WEASELS is a Private Military Organisation (PMC) offering high level security and para-military 
-services to our customers.
+h2. WEASELS ist ein Privater Sicherheitsdienstleister welcher militärische/para-militärische 
+Dienstleistungen anbietet.
 
 Comm-Link: https://discord.gg/6SnD2Ht 

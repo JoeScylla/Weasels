@@ -1,39 +1,61 @@
 h2. 04 Dezember 2941
 
-Joe Scylla takes command over WEASELS as successor of Barin Suiza who died by a fatal collision on Ellis IV with his Origin 325a.
+Joe Scylla übernimmt als Nachfolger von Barin Suiza das Kommando von WEASELS, da dieser bei einer
+Kollision auf Ellis IV mit seiner Origin 325a getötet wurde.
 
-h2. 11 July 2940
+h2. 11 Juli 2940
 
-A WEASELS escort squadron with a Constellation and 4 supporting Hornet F7C-M got attacked by a squadron of 10 Vanduul Scythes near the Kellog system. All enemies got shut down but the Constellation got badly damaged and Private Harry "JustACopy" Merrick got killed by a breach of the air lock in his turret station. Also one Hornet F7C-M was shut down killing Lieutenant Kerren "Pausen" Boyd.
+Eine Geleitschutzstaffel mit einer Constellation und 4 Hornet F7C-M wurde von 13 Vanduul Scythes 
+in der Nähe des Kellog-Systems angegriffen. Alle Angreifer konnten vernichtet werden. Eine Hull-C
+sowie die Constellation wurden schwer beschädigt. Eine Hornet F7C-M wurde abgeschossen und Leutnant 
+Kerren "Pausen" Boyd wurde getötet. Rekrut Harry "JustACopy" Merrick wurde getötet nachdem die 
+Luftschleuse seines Geschützturms beschädigt wurde.
 
-bq. I am so glad we had WEASELS as our escort. Most Idris even have a very serious problem facing 10 Vanduul Scythes. - Anonymous freighter pilot.
+bq. Ich bin so froh, dass wir WEASELS als Geleitschutz hatten. Selbst eine Idris würde normalerweise
+nicht mit 13 Vanduul Scythes fertig werden. - Anonymous freighter pilot.
 
-h2. 30 October 2939
+h2. 30 Oktober 2939
 
-Signed a contract with the Kruger Intergalactic for extended excort and support services. Details are classified.
+Vertrag mit Kruger Intergalactic unterzeichnet für erweiterten Geleitschutz sowie 
+Unterstützungsleistungen. Weitere Details sind Verschlusssache.
 
-bq. We are very happy to cooperate with WEASELS. They are fast, reliable and professional. Ben Yeager (Head of Security of Kruger Intergalactic).
+bq. Wir sind sehr glücklich mit WEASELS zu kooperieren. WEASELS handelt schnell, ist zuverlässig 
+und professionell. - Ben Yeager (Sicherheitschef von Kruger Intergalactic).
 
-h2. 03 March 2938
+h2. 03 März 2938
 
-Prevented the raid of a research facility by a small pirate squadron in the Hades system. WEASELS was able to interrupt the raid before pirate infantry was detached to the research facility. In the following fight the pirates lost a Cutless, two M50 fighters and WEASELS was able to capture a Caterpillar by boarding the ship.
+Angriff einer Staffel von Piraten auf Forschungsanlagen im Hades-System verhindert. WEASELS konnte 
+den Angriff unterbinden bevor feindliche Infanterie die Anlagen erreichen konnte. Während des 
+Kampfes wurde eine feindliche Cutless und zwei feindliche M50 vernichtete sowie eine 
+feindliche Caterpillar durch eine Spezialeinheit erobert.
 
-Sergeant Hans "Snix" Hauser got killed accidently by a self-inflicted gunshot to the head.
+Unteroffizier Hans "Snix" Hauser wurde durch einen versehentlich und selbst verschuldeten Schuss in 
+den Kopf hetötet.
 
 h2. 04 Dezember 2937
 
-Recovered personal and material within an infiltration and rescue operation in the Cathcart system.
+Personal und Material in einer Rettungs- und Bergungsmission im Cathcart-System erfolgreich 
+ausgeführt.
 
-bq. In one of our cooperation darkest hours WEASELS was able to retrieve stolen data and captured personal in a very professional manner and without causalties. Meager Industries will continue to use the services WEASELS provide. - Brun Meager (CEO of Meager Industries).
+bq. In einer unserer schwersten Stunden war WEASELS in der Lage gestohlene Daten und 
+Forschungsmaterial sowie entführtes Personal ohne Verluste sicherzustellen. Meager Industries wird 
+die Zusammenarbeit mit WEASELS ausbauen. - Brun Meager (CEO of Meager Industries).
 
 h2. 23 April 2936
 
-Signed a contract with the UEE Command to secure UEE affiliated research facilities in the Hades system.
+Vertrag mit den UEE Streitkräften abgeschlossen die UEE-nahen Forschungsanlagen in dem Hades-System
+zu sichern.
 
-bq. WEASELS offers great services and executes them perfectly. With the help of WEASELS we were able to free up resources and transfer them to the Vanduul frontlines. - Admiral Esmay Serrano (UEE).
+bq. WEASELS stellt eine hervoragende und umfassende Leistung bereit und führt diese perfekt aus. Mit 
+der Hilfe von WEASELS waren wir in der Lage Resourcen freizustellen und diese den Frontlinien an der
+Grenze zu Vanduul zuzuführen - Admiral Esmay Serrano (UEE).
 
-h2. 08 January 2936
+h2. 08 Januar 2936
 
-WEASELS got founded at the 01 January 2941 by Barin Suiza and retired personal of the 7. Cavalry Bataillon "The Weasels".
+WEASELS wurde von Barin Suiza und ausgeschiedenen Personal des 7. Kavalleriebattalions 
+"The Weasels" gegründet.
 
-The 7. Cavalry Bataillon is part of the of the 1. Cavalry Division and the UEE Special Operations Command (UEE SOCOM) using combined arms of spacecrafts and infantry for stealth, reconnaissance, infiltration and boarding operations.
+Das 7. Kavalleriebattalion ist Teil der 1. Kavalleriedivision und der UEE Streitkräfte für 
+Spezialoperationen (UEE Special Operations Command (UEE SOCOM)). Das 7. Kavalleriebattalion
+ist Teil der kombinierten Spezialeinheiten die Kompanien für Flugstaffeln, mobile Einheiten sowie
+Infanterie enthalten.
