@@ -1,4 +1,4 @@
-h2. WEASELS ist ein Privater Sicherheitsdienstleister welcher militärische/para-militärische 
+h2. WEASELS ist ein Privater Sicherheitsdienstleister der militärische/para-militärische 
 Dienstleistungen anbietet.
 
-Comm-Link: https://discord.gg/6SnD2Ht 
+"Discord":https://discord.gg/6SnD2Ht

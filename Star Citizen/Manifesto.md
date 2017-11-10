@@ -1,12 +1,12 @@
 WEASELS ist die Heimat für ausgeschiedenes militärisches Personal, die über aussergewähnliche
 Fertigkeiten und Erfahrung verfügen.
 
-Aus diesem Grund ist WEASELS in der Lage eine umfangreiche Reihe an Dienstleistungen in Bereich
-Sicherheit sowie Paramilitärischen Leistungen zu bieten, wozu andere Private 
-Sicherheitsdienstleister (Private Military Cooperations (PMC)) nicht in der Lage sind.
+WEASELS ist in der Lage eine umfangreiche Reihe an Dienstleistungen in Bereich Sicherheit sowie 
+militärischen/para-militärischen Dienstleistungen anzubieten, wozu andere Private 
+Sicherheitsdienstleister nicht in der Lage sind.
 
-Zusätzlich verfügen wird über ausgezeichnete Kontakte zum UEE Kommando sowie UEE Nachrichtendienst
-was uns in vielen Situationen einen Vorteil verschafft.
+Unsere ausgezeichneten Kontakte zu den UEE Streitkräften und dem UEE Nachrichtendienst erlauben uns
+in vielen Situationen uns einen Vorteil zu verschaffen.
 
 h2. Dienstleistungen
 
@@ -32,9 +32,9 @@ umfassend beraten.
 h2. Struktur
 
 Die Struktur von WEASELS basiert auf dem UEE Standard #1048 "Special Assignment Command Structure 
-for Agile Units" des UEE Streitkräfte für Spezialoperationen (UEE Special Operations Command
-(UEE SOCOM)). Die Kommandostruktur welche auch von dem 7. Kavalleriebattalions der 1. 
-Kavalleriedivision verwendet wird.
+for Agile Units" der UEE Streitkräfte für Spezialoperationen (UEE Special Operations Command
+(UEE SOCOM)). Die Kommandostruktur welche auch von dem 7. Kavalleriebattalions "The Weasels" 
+verwendet wird.
 
 h3. 1. Stabskompanie
 
